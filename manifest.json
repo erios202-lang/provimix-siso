@@ -1,0 +1,22 @@
+{
+  "name": "PROVIMIX SISO",
+  "short_name": "SISO",
+  "description": "Sistema de Gestión de Seguridad y Salud Ocupacional de PROVIMIX PANAMÁ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f4f6",
+  "theme_color": "#5b2c83",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
